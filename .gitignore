@@ -1,0 +1,5 @@
+venv
+artifacts
+prediction_artifacts
+predictions
+deployement_documentation
